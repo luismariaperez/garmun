@@ -3,6 +3,6 @@
   "description": "Just a little test",
   "require": {
     "php": "^7.2",
-    "finizens/garmon": "dev-*"
+    "finizens/garmon": "@dev"
   }
 }
