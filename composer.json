@@ -4,5 +4,6 @@
   "require": {
     "php": "^7.2",
     "finizens/garmon": "@dev"
-  }
+  },
+  "minimun-stability": "dev"
 }
